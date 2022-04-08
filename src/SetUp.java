@@ -14,7 +14,7 @@ public class SetUp {
   //I see Dzera has some screenshots of the class chat and picture of the girl cooking in the background
   
   
-  //Thank you Daur for that lovely fail. It looks amazing.
+  //Thank you Daur for that lovely file. It looks amazing.
     //making more changes
   
 
