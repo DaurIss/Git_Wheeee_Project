@@ -11,7 +11,7 @@ public class SetUp {
 
   // Jehad made a change 
   
-  
+  //I see Dzera has some screenshots of the class chat and picture of the girl cooking in the background
   
   
   //Thank you Daur for that lovely fail. It looks amazing.
