@@ -11,21 +11,19 @@ public class SetUp {
 
   // Jehad made a change 
   
-  //I see Dzera has some screenshots of the class chat and picture of the girl cooking in the background
+  //I see Dzera has some screenshots of the class chat and picture of the girl cooking in the background....
   
   
-  //Thank you Daur for that lovely fail. It looks amazing.
+  //Thank you Daur for that lovely file. It looks amazing.
     //making more changes
+
 
 
 
     //neka is making changes
     //update
     //mo
-    // ibra is the best
-
-
-  
+    // ibra is the best 
    
    
  
@@ -43,6 +41,8 @@ public class SetUp {
     //hi
   
     //i am making changes again Jeez
+
+  //some line..more shit
 
     // hello 
 
