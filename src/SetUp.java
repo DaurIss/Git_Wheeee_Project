@@ -6,7 +6,7 @@ public class SetUp {
     // Daur is making changes
 
 
-
+// Daur is texting some dumb shit....
 
 
   // Jehad made a change 
@@ -16,8 +16,34 @@ public class SetUp {
   
   //Thank you Daur for that lovely file. It looks amazing.
     //making more changes
+
+
+
+
+    //neka is making changes
+    //update
+    //mo
+    // ibra is the best 
+   
+   
+ 
+    //commit
+
+    // I made some pussy code, to scan all the pussies in the world
+  
+
+
+    //Dzera is in the house
+
+    //changes
+
+
+    //hi
+  
+    //i am making changes again Jeez
+
   //some line..more shit
 
-    
+    // hello 
 
 }
