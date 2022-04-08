@@ -3,14 +3,10 @@ public class SetUp {
     // setting up project for everyone
 
 
-    // Jehad made a change
-
-    // Welcome Ibrahim and Ilya to wheeee .. regardless ,Jehad
-
     // Daur is making changes
 
 
-
+// Daur is texting some dumb shit....
 
 
   // Jehad made a change 
@@ -21,12 +17,21 @@ public class SetUp {
   //Thank you Daur for that lovely fail. It looks amazing.
     //making more changes
 
+
+
+    //neka is making changes
+    //update
+    //mo
+    // ibra is the best
+
+
+  
+   
+   
+ 
     //commit
 
-
-
     // I made some pussy code, to scan all the pussies in the world
-
   
 
 
@@ -34,7 +39,11 @@ public class SetUp {
 
     //changes
 
+
     //hi
-    
+  
+    //i am making changes again Jeez
+
+    // hello 
 
 }
